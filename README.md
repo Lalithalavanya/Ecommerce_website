@@ -10,15 +10,8 @@
 
         <link rel="stylesheet" href="style.css">
     </head>
-
-    <body>
-
-        <script src="script.js"></script>
-    </body>
-
-</html>
-# Ecommerce_website
-@import url("https://fonts.googleapis.com/css2?family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap");
+    <style>
+    @import url("https://fonts.googleapis.com/css2?family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -71,3 +64,15 @@ p {
 body {
   width: 100%;
 }
+</style>
+
+    <body>
+
+        <script src="script.js"></script>
+    </body>
+
+</html>
+# Ecommerce_website
+
+
+
